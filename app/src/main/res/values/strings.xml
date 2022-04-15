@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LayoutMovies</string>
+    <string name="Movie_Name">The Walking Dead</string>
+    <string name="temporadas">S1:E2</string>
+</resources>
